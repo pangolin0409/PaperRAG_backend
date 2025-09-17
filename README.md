@@ -33,8 +33,8 @@
 
 1.  **Clone 專案**
     ```bash
-    git clone {您的專案 Git URL}
-    cd {專案名稱}
+    git clone https://github.com/pangolin0409/PaperRAG_backend.git
+    cd PaperRAG_backend
     ```
 
 2.  **安裝依賴套件**
